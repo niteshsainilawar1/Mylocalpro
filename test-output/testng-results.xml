@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-28T13:49:21 IST" name="Default suite" finished-at="2023-01-28T13:49:21 IST" duration-ms="230">
+    <groups>
+    </groups>
+    <test started-at="2023-01-28T13:49:21 IST" name="Default test" finished-at="2023-01-28T13:49:21 IST" duration-ms="230">
+      <class name="com.app.nit.MynewProject123.Testng">
+        <test-method signature="t1()[pri:0, instance:com.app.nit.MynewProject123.Testng@481a996b]" started-at="2023-01-28T13:49:21 IST" name="t1" finished-at="2023-01-28T13:49:21 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t1 -->
+        <test-method signature="t2()[pri:0, instance:com.app.nit.MynewProject123.Testng@481a996b]" started-at="2023-01-28T13:49:21 IST" name="t2" finished-at="2023-01-28T13:49:21 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t2 -->
+        <test-method signature="t3()[pri:0, instance:com.app.nit.MynewProject123.Testng@481a996b]" started-at="2023-01-28T13:49:21 IST" name="t3" finished-at="2023-01-28T13:49:21 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t3 -->
+      </class> <!-- com.app.nit.MynewProject123.Testng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
